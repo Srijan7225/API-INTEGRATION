@@ -26,3 +26,5 @@ The main steps involved in developing this project are:
 To make the project work, I have used free API key from OpenWeatherMap and insert it into the code.
 
 #OUTPUT:
+
+<img width="1917" height="964" alt="Image" src="https://github.com/user-attachments/assets/192a8e94-a1c1-4d49-9e96-b630fe2cb896" />
